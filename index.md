@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
 ---
+
+# Profile
+As an experienced analyst and technician, with a demonstrated history of working in the software development and telecommunications industries, I am looking to grow into a Data Analyst and Machine Learning Technologist position through ongoing education and experience.
+
+{% include education.md %}
+{% include employment.html %}

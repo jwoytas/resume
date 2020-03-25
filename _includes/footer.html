@@ -32,6 +32,10 @@
       {%- include social.html -%}
     </div>
 
+    {% if page.url == '/about/' -%}
+    <p>Powered by <a href="http://jekyllrb.com/">Jekyll</a> and
+      <a href="https://www.github.com/jekyller/vitae">vitae</a></p>
+    {%- endif %}
   </div>
 
 </footer>
