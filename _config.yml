@@ -33,6 +33,8 @@ github_username:  jwoytas
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 markdown: kramdown
 show_downloads: false
